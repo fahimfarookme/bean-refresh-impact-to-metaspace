@@ -1,2 +1,2 @@
 # bean-refresh-impact-to-metaspace
-PoC to see if there's any impactto metaspace due to bean refresh
+PoC to see if there's any impact to metaspace due to bean refresh
